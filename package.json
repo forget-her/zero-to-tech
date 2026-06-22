@@ -7,6 +7,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "animejs": "^4.4.1"
+    "animejs": "^4.4.1",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.2"
   }
 }

@@ -1,0 +1,21 @@
+0 verbose cli D:\node\node.exe D:\node\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.5.1
+2 info using node@v24.7.0
+3 silly config load:file:D:\node\node_modules\npm\npmrc
+4 silly config load:file:d:\zero-to-tech\.npmrc
+5 silly config load:file:C:\Users\11583\.npmrc
+6 silly config load:file:C:\Users\11583\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm ls @vitejs/plugin-react
+8 verbose argv "ls" "--json" "--depth" "0" "--" "@vitejs/plugin-react"
+9 verbose logfile logs-max:10 dir:D:\zero-to-tech\npm-cache\_logs\2026-06-22T14_22_49_969Z-
+10 verbose logfile D:\zero-to-tech\npm-cache\_logs\2026-06-22T14_22_49_969Z-debug-0.log
+11 silly logfile start cleaning logs, removing 2 files
+12 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+13 silly logfile done cleaning log files
+14 verbose shrinkwrap failed to load node_modules/.package-lock.json out of date, updated: node_modules
+15 verbose cwd d:\zero-to-tech
+16 verbose os Windows_NT 10.0.26200
+17 verbose node v24.7.0
+18 verbose npm  v11.5.1
+19 verbose exit 0
+20 info ok

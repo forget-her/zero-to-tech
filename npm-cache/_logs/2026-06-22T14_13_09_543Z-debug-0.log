@@ -1,0 +1,20 @@
+0 verbose cli D:\node\node.exe D:\node\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.5.1
+2 info using node@v24.7.0
+3 silly config load:file:D:\node\node_modules\npm\npmrc
+4 silly config load:file:D:\zero-to-tech\.npmrc
+5 silly config load:file:C:\Users\11583\.npmrc
+6 silly config load:file:C:\Users\11583\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm run dev
+8 verbose argv "run" "dev"
+9 verbose logfile logs-max:10 dir:D:\zero-to-tech\npm-cache\_logs\2026-06-22T14_13_09_543Z-
+10 verbose logfile D:\zero-to-tech\npm-cache\_logs\2026-06-22T14_13_09_543Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 verbose cwd D:\zero-to-tech
+14 verbose os Windows_NT 10.0.26200
+15 verbose node v24.7.0
+16 verbose npm  v11.5.1
+17 verbose exit 1
+18 verbose code 1
+19 error A complete log of this run can be found in: D:\zero-to-tech\npm-cache\_logs\2026-06-22T14_13_09_543Z-debug-0.log
